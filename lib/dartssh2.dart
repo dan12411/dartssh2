@@ -16,7 +16,7 @@ export 'src/identity.dart'
         RSAKey,
         RSASignature;
 
-// export 'src/kex.dart' show SSHDiffieHellman;
+export 'src/kex.dart' show SSHDiffieHellman;
 
 export 'src/server.dart' show SSHServer;
 
